@@ -8,3 +8,4 @@ Welcome to the repo of various probems that requires good knowledge of data stru
 5. COVID19B: Array/Recursion/DFS/Logic Building
 6. CHFNSWAP: Mathematics/ Analytical
 7. ADAMAT: Array/Logical Thinking
+8. REPLSEX: Arrays/Sorting/Logic Building
